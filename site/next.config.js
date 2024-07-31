@@ -2,13 +2,13 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Multisoft Registry',
+    description: 'Multisoft registery',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://mhdnabil.github.io/kasmtech-registy/',
+    contactUrl: 'https://github.com/mhdnabil/kasmtech-registy/issues',
   },
-  reactStrictMode: true,
+  reactStrictMode: false,
   swcMinify: true,
   basePath: '/kasm-registry/1.0',
   trailingSlash: true,
